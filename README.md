@@ -17,7 +17,7 @@ Dividing the distance in kilometers by speed of kilometers per hour results in a
 in hours. To convert into hours and minutes, subtract the whole number of hours and multiply the resulting fractional part by 60. Times are rounded to the nearest minute.
 
 ## Tasks
-- Implemented the logic in acp_times.py based on the algorithm linked above.
+- Implemented the logic in acp_times.py based on the algorithm linked.
 - Edited the template and Flask app so that the required remaining arguments were passed along.
 - Constructed an automated "nose" test suite for the project using test cases created from using the website.
 
